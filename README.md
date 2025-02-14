@@ -22,39 +22,33 @@ As a digital forensics and threat intelligence analyst, I am seeking opportuniti
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-
 <div>
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/-Kali_Linux-557C9B?&style=for-the-badge&logo=kali&logoColor=white" /></a>
   <a href="https://www.metasploit.com"><img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=metasploit&logoColor=white" /></a>
   <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/-Burp_Suite-8A0000?&style=for-the-badge&logo=burp-suite&logoColor=white" /></a>
   <a href="https://nmap.org"><img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
 </div>
-
 ### Network
 <div>
     <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 </div>
-
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
